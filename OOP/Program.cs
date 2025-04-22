@@ -6,6 +6,8 @@
         {
             Dad dad = new Dad("Abdi", "AA", 45, "Abdi");
             Child child = new Child("5.5", 20, dad);
+
+            child.Show();
         }
     }
 }
