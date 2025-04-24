@@ -1,7 +1,8 @@
 {
   "profiles": {
     "firstProject": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Tola\\OneDrive\\Dokumente\\different things\\New folder\\firstProject"
     },
     "WSL": {
       "commandName": "WSL2",
